@@ -1,4 +1,4 @@
-# BostonHousing
+# Boston Housing
 The Boston housing data was collected in 1978 and each of the 506 entries represent aggregated data about 14 features for homes from various suburbs in Boston, Massachusetts. Dataset link: https://www.kaggle.com/datasets/avish5787/boston-data-set
 
 ### You are required to:
